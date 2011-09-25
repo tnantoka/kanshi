@@ -1,0 +1,18 @@
+{
+  "author": "tnantoka <bornneet@livedoor.com> (http://blog.bornneet.com/)",
+  "name": "kanshi",
+  "description": "Simple script for monitoring websites",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tnantoka/kanshi.git"
+  },
+  "engines": {
+    "node": ">=0.4"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+  }
+}

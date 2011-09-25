@@ -1,0 +1,14 @@
+# Mac OS X automatic create files
+.DS_Store
+
+# Vim automatic create files
+*~
+.*.sw*
+
+# Temporary files
+logs/*.log
+nohup.out
+
+# npm modules
+node_modules
+
