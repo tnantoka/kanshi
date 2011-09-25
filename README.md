@@ -26,3 +26,9 @@ Simple script for monitoring websites.
 
     node_modules/kanshi/targets.js
 
+## Demo
+
+  login with test/test
+
+http://kanshi.looseleafjs.org/
+
