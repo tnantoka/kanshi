@@ -26,6 +26,10 @@ Simple script for monitoring websites.
 
     node_modules/kanshi/targets.js
 
+  Symbolic link for accessing log files from browser
+
+    ln -s ../logs node_modules/kanshi/statics/logs
+
 ## Demo
 
   login with test/test
