@@ -63,7 +63,7 @@ function checkTarget(target) {
     });
 
     // Handle http timeout
-    var start = new Date().getTime;
+    var start = new Date().getTime();
     timerId = setTimeout(function() {
       update('NG', ['Timeout', (new Date().getTime() - start) / 1000]);
       req.abort(); 
