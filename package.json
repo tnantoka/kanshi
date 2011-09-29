@@ -2,7 +2,7 @@
   "author": "tnantoka <bornneet@livedoor.com> (http://blog.bornneet.com/)",
   "name": "kanshi",
   "description": "Simple script for monitoring websites",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/tnantoka/kanshi.git"
